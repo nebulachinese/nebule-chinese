@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\websocket-sharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\websocket-sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\websocket-sharp.csproj",
+        "projectName": "websocket-sharp",
+        "projectPath": "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\websocket-sharp.csproj",
+        "packagesPath": "C:\\Users\\31554\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "H:\\VS\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\31554\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "dependencies": {
+            "jnm2.ReferenceAssemblies.net35": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

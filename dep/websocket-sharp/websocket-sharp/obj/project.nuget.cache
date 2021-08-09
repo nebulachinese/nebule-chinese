@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VsPP7+dhO4vGOcpC3JJoPM4aWKP3k3seIwQhx4VxxsO93jmK8a0lIyEHByLJiu2+zVsTBy4Gc9NSvhvatewLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\31554\\Desktop\\中文版源码\\dep\\websocket-sharp\\websocket-sharp\\websocket-sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\31554\\.nuget\\packages\\jnm2.referenceassemblies.net35\\1.0.1\\jnm2.referenceassemblies.net35.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

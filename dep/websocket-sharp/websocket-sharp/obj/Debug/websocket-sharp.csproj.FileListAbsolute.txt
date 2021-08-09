@@ -1,0 +1,12 @@
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.dll
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.pdb
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.dll
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.pdb
+C:\Users\31554\Desktop\nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.csproj.AssemblyReference.cache
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.dll
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.pdb
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.dll
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.pdb
+C:\Users\31554\Desktop\杂七杂八\戴森球计划\Nebula\dep\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.csproj.AssemblyReference.cache
